@@ -1,5 +1,7 @@
 # QiuShiBaiKe
 糗事百科纯swift客户端
+swift + IB + AutoLayout实现
+
 
 截图：
 
